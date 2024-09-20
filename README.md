@@ -2,7 +2,7 @@
 
 ## 🚀 Font-End Developer | React Js | Junior MERN Stack Developer | Next Js
 
-I'm a **MERN Stack Developer** passionate about building full-stack applications that are both impactful and scalable. My goal is to continuously improve my technical skills, solve real-world problems, and contribute to open-source projects.
+### A passionate Font-End Developer and Junior MERN Stack Developer from Bangladesh
 
 - 🔭 **I’m currently working on**: Next.js
 - 🌱 **I’m currently learning**: Redux, TypeScript
