@@ -6,9 +6,9 @@ I'm a **MERN Stack Developer** passionate about building full-stack applications
 
 - 🔭 **I’m currently working on**: Next.js
 - 🌱 **I’m currently learning**: Redux, TypeScript
-- 👯 **Looking to collaborate on**: Github.
-- 🤔 **Interested in**: Exploring GraphQL and improving database performance.
+- 👯 **👨‍💻 All of my projects are available at**: https://rayhanuddinfarhad.netlify.app/.
 - 💬 **Ask me about**: Tailwind, Bootstrap, Javascript, React, express.js, Node.js.
+- 📫 How to reach me mdrahim.nil2005@gmail.com
 
 ---
 
