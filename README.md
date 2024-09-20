@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdur Rahim! 
+# Hi 👋, I'm Abdur Rahim
 
 ## 🚀 Font-End Developer | React Js | Junior MERN Stack Developer | Next Js
 
