@@ -26,54 +26,15 @@ I'm a **MERN Stack Developer** passionate about building full-stack applications
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
-## 📂 Projects
-
-Here are some projects that I’ve worked on:
-
-### 🌟 [Project 1: Full-Stack E-Commerce Platform](https://github.com/your-username/project-1)
-A full-stack e-commerce platform built using the MERN stack. It includes features like product browsing, shopping cart, and secure payment gateway integration.
-- **Tech stack**: MongoDB, Express.js, React, Node.js, Stripe API.
-
-### 🌟 [Project 2: Social Media Platform](https://github.com/your-username/project-2)
-A social networking platform where users can post, like, and comment on posts, and follow other users. Fully responsive with a clean UI.
-- **Tech stack**: MongoDB, Express.js, React, Node.js.
-
----
 
 ## 🌍 Let's Connect
 
-## 🌍 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbdurRahim81)
 <a href="https://www.facebook.com/profile.php?id=100071716281782" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdurRahim80)
 
 
 
----
 
-## 🏆 Achievements
-
-- 🌟 Regular contributor to open-source projects in the MERN stack.
-- 🌟 Built several full-stack applications with real-world use cases.
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark&bg_color=20232a&hide_border=true)
-
----
-
-## 💬 Fun Fact
-When I'm not coding, you'll find me exploring the latest tech trends, reading, or playing chess ♟️.
