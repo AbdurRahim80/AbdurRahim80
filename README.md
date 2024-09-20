@@ -44,6 +44,12 @@ I'm a **MERN Stack Developer** passionate about building full-stack applications
 </a>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdurRahim80)
 
+---
+
+## 📊 GitHub Stats and Most Used Languages:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 
 
