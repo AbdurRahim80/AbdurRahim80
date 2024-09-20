@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdur Rahim! 
 
-## 🚀 Font-End Developer || React Js || Junior MERN Developer || Next Js || Open Source Enthusiast
+### 🚀 Font-End Developer | React Js | Junior MERN Developer | Next Js | Open Source Enthusiast
 
 I'm a **MERN Stack Developer** passionate about building full-stack applications that are both impactful and scalable. My goal is to continuously improve my technical skills, solve real-world problems, and contribute to open-source projects.
 
