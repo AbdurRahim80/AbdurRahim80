@@ -1,4 +1,4 @@
-# Hi, I'm Abdur Rahim! 👋
+# Hi 👋, I'm Abdur Rahim! 
 
 ## 🚀 MERN Stack Developer | Open Source Enthusiast
 
