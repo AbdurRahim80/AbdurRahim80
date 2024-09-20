@@ -31,6 +31,15 @@
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+[![Vite](https://img.shields.io/badge/Vite-643BFF?style=flat-square&logo=vite&logoColor=white)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+[![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=material-ui&logoColor=white)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-5B3FD4?style=flat-square&logo=daisyui&logoColor=white)
+[![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 
 ---
 
