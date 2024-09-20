@@ -2,7 +2,6 @@
 
 ## 🚀 Font-End Developer | React Js | Junior MERN Stack Developer | Next Js
 
-### A passionate Font-End Developer and Junior MERN Stack Developer from Bangladesh
 
 - 🔭 **I’m currently working on**: Next.js
 - 🌱 **I’m currently learning**: Redux, TypeScript
