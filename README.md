@@ -5,7 +5,7 @@
 
 - 🔭 **I’m currently working on**: Next.js
 - 🌱 **I’m currently learning**: Redux, TypeScript
-- 👯 **👨‍💻 All of my projects are available at**:(https://abdurrahimportfolio.vercel.app/).
+- 👯 **👨‍💻 All of my projects are available at**: https://abdurrahimportfolio.vercel.app.
 - 💬 **Ask me about**: Tailwind, Bootstrap, Javascript, React, express.js, Node.js.
 - 📫 How to reach me mdrahim.nil2005@gmail.com
 
